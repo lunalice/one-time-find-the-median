@@ -1,0 +1,292 @@
+[
+  [
+    {
+      "action": "transit_phase",
+      "phase": "loading",
+      "at": "2018-07-11T10:17:24.275Z"
+    },
+    {
+      "action": "transit_phase",
+      "phase": "edit",
+      "at": "2018-07-11T10:17:24.564Z"
+    },
+    {
+      "action": "update",
+      "field": "preferred_date_1",
+      "first_updated_at": "2018-07-11T10:17:27.233Z",
+      "last_updated_at": "2018-07-11T10:17:32.726Z"
+    },
+    {
+      "action": "update",
+      "field": "preferred_date_2",
+      "first_updated_at": "2018-07-11T10:17:39.881Z",
+      "last_updated_at": "2018-07-11T10:17:43.750Z"
+    },
+    {
+      "action": "focus",
+      "field": "preferred_schedule_note",
+      "at": "2018-07-11T10:17:50.648Z"
+    },
+    {
+      "action": "update",
+      "field": "preferred_schedule_note",
+      "first_updated_at": "2018-07-11T10:17:54.250Z",
+      "last_updated_at": "2018-07-11T10:18:07.173Z"
+    },
+    {
+      "action": "blur",
+      "field": "preferred_schedule_note",
+      "at": "2018-07-11T10:18:07.818Z"
+    },
+    {
+      "action": "focus",
+      "field": "child_last_name",
+      "at": "2018-07-11T10:18:18.364Z"
+    },
+    {
+      "action": "blur",
+      "field": "child_last_name",
+      "at": "2018-07-11T10:18:19.469Z"
+    },
+    {
+      "action": "focus",
+      "field": "parent_last_name",
+      "at": "2018-07-11T10:18:22.993Z"
+    },
+    {
+      "action": "update",
+      "field": "parent_last_name",
+      "first_updated_at": "2018-07-11T10:18:23.846Z",
+      "last_updated_at": "2018-07-11T10:18:25.016Z"
+    },
+    {
+      "action": "blur",
+      "field": "parent_last_name",
+      "at": "2018-07-11T10:18:25.587Z"
+    },
+    {
+      "action": "focus",
+      "field": "parent_first_name",
+      "at": "2018-07-11T10:18:25.619Z"
+    },
+    {
+      "action": "update",
+      "field": "parent_first_name",
+      "first_updated_at": "2018-07-11T10:18:26.307Z",
+      "last_updated_at": "2018-07-11T10:18:30.148Z"
+    },
+    {
+      "action": "blur",
+      "field": "parent_first_name",
+      "at": "2018-07-11T10:18:31.417Z"
+    },
+    {
+      "action": "focus",
+      "field": "child_last_name",
+      "at": "2018-07-11T10:18:32.093Z"
+    },
+    {
+      "action": "update",
+      "field": "child_last_name",
+      "first_updated_at": "2018-07-11T10:18:32.752Z",
+      "last_updated_at": "2018-07-11T10:18:33.828Z"
+    },
+    {
+      "action": "blur",
+      "field": "child_last_name",
+      "at": "2018-07-11T10:18:34.319Z"
+    },
+    {
+      "action": "focus",
+      "field": "child_first_name",
+      "at": "2018-07-11T10:18:34.353Z"
+    },
+    {
+      "action": "update",
+      "field": "child_first_name",
+      "first_updated_at": "2018-07-11T10:18:35.058Z",
+      "last_updated_at": "2018-07-11T10:18:43.155Z"
+    },
+    {
+      "action": "blur",
+      "field": "child_first_name",
+      "at": "2018-07-11T10:18:43.708Z"
+    },
+    {
+      "action": "focus",
+      "field": "child_first_name_kana",
+      "at": "2018-07-11T10:18:43.766Z"
+    },
+    {
+      "action": "update",
+      "field": "child_first_name_kana",
+      "first_updated_at": "2018-07-11T10:18:44.161Z",
+      "last_updated_at": "2018-07-11T10:18:48.392Z"
+    },
+    {
+      "action": "blur",
+      "field": "child_first_name_kana",
+      "at": "2018-07-11T10:18:48.803Z"
+    },
+    {
+      "action": "update",
+      "field": "child_gender",
+      "first_updated_at": "2018-07-11T10:18:49.760Z",
+      "last_updated_at": "2018-07-11T10:18:49.760Z"
+    },
+    {
+      "action": "update",
+      "field": "child_birthday",
+      "first_updated_at": "2018-07-11T10:18:50.644Z",
+      "last_updated_at": "2018-07-11T10:18:57.172Z"
+    },
+    {
+      "action": "focus",
+      "field": "address_postal_code",
+      "at": "2018-07-11T10:18:58.622Z"
+    },
+    {
+      "action": "update",
+      "field": "address_postal_code",
+      "first_updated_at": "2018-07-11T10:18:59.545Z",
+      "last_updated_at": "2018-07-11T10:19:01.243Z"
+    },
+    {
+      "action": "blur",
+      "field": "address_postal_code",
+      "at": "2018-07-11T10:19:01.243Z"
+    },
+    {
+      "action": "focus",
+      "field": "address_street",
+      "at": "2018-07-11T10:19:03.212Z"
+    },
+    {
+      "action": "update",
+      "field": "address_street",
+      "first_updated_at": "2018-07-11T10:19:04.516Z",
+      "last_updated_at": "2018-07-11T10:19:05.668Z"
+    },
+    {
+      "action": "blur",
+      "field": "address_street",
+      "at": "2018-07-11T10:19:05.908Z"
+    },
+    {
+      "action": "focus",
+      "field": "address_building",
+      "at": "2018-07-11T10:19:05.939Z"
+    },
+    {
+      "action": "update",
+      "field": "address_building",
+      "first_updated_at": "2018-07-11T10:19:07.783Z",
+      "last_updated_at": "2018-07-11T10:19:22.355Z"
+    },
+    {
+      "action": "blur",
+      "field": "address_building",
+      "at": "2018-07-11T10:19:22.913Z"
+    },
+    {
+      "action": "focus",
+      "field": "address_building",
+      "at": "2018-07-11T10:19:22.923Z"
+    },
+    {
+      "action": "update",
+      "field": "address_building",
+      "first_updated_at": "2018-07-11T10:19:22.956Z",
+      "last_updated_at": "2018-07-11T10:19:22.974Z"
+    },
+    {
+      "action": "blur",
+      "field": "address_building",
+      "at": "2018-07-11T10:19:23.444Z"
+    },
+    {
+      "action": "focus",
+      "field": "phone_number",
+      "at": "2018-07-11T10:19:23.463Z"
+    },
+    {
+      "action": "update",
+      "field": "phone_number",
+      "first_updated_at": "2018-07-11T10:19:24.800Z",
+      "last_updated_at": "2018-07-11T10:19:27.026Z"
+    },
+    {
+      "action": "blur",
+      "field": "phone_number",
+      "at": "2018-07-11T10:19:27.027Z"
+    },
+    {
+      "action": "focus",
+      "field": "email",
+      "at": "2018-07-11T10:19:30.517Z"
+    },
+    {
+      "action": "update",
+      "field": "email",
+      "first_updated_at": "2018-07-11T10:19:31.706Z",
+      "last_updated_at": "2018-07-11T10:20:09.633Z"
+    },
+    {
+      "action": "blur",
+      "field": "email",
+      "at": "2018-07-11T10:20:10.004Z"
+    },
+    {
+      "action": "focus",
+      "field": "email_confirm",
+      "at": "2018-07-11T10:20:10.041Z"
+    },
+    {
+      "action": "update",
+      "field": "email_confirm",
+      "first_updated_at": "2018-07-11T10:20:12.374Z",
+      "last_updated_at": "2018-07-11T10:20:25.036Z"
+    },
+    {
+      "action": "blur",
+      "field": "email_confirm",
+      "at": "2018-07-11T10:20:25.757Z"
+    },
+    {
+      "action": "update",
+      "field": "interested_courses",
+      "first_updated_at": "2018-07-11T10:20:29.856Z",
+      "last_updated_at": "2018-07-11T10:20:29.856Z"
+    },
+    {
+      "action": "transit_phase",
+      "phase": "preview",
+      "at": "2018-07-11T10:21:50.346Z"
+    },
+    {
+      "action": "submit",
+      "at": "2018-07-11T10:21:57.641Z"
+    },
+    {
+      "action": "transit_phase",
+      "phase": "thanks",
+      "at": "2018-07-11T10:21:57.655Z"
+    }
+  ],
+  [
+    {
+      "action": "transit_phase",
+      "phase": "loading",
+      "at": "2018-07-11T10:37:25.379Z"
+    },
+    {
+      "action": "transit_phase",
+      "phase": "edit",
+      "at": "2018-07-11T10:37:25.678Z"
+    },
+    {
+      "action": "leave",
+      "at": "2018-07-11T10:37:48.691Z"
+    }
+  ]
+]
